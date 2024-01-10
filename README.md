@@ -1,3 +1,4 @@
-- 👋🏾 Hi, I’m Samuel T. Siaw, a student at Dartmouth College.
-- 👨🏾‍🎓 I'm studying Computer Engineering (graduating in 2023).
+- 👋🏾 Hi, I’m Samuel T. Siaw.
+- Moved over to [@sitibuilds](https://github.com/sitibuilds)
+- Most repos are private on this and other profile. They tend to be made Public when needed. So please ping if access is lost.
 
